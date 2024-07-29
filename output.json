@@ -1,0 +1,12 @@
+{
+    "string_1": "784498",
+    "string_2": 1405524346,
+    "map_1": {
+        "bool_1": true,
+        "null_1": null,
+        "list_1": [
+            11,
+            false
+        ]
+    }
+}
